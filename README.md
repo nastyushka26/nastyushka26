@@ -11,22 +11,22 @@ Looking for an internship or junior position on a product team.
 
 - *Backend development with Python*
 - *REST APIs · Django · FastAPI*  
-- *Working with PostgreSQL, Docker, algorithms  *
+- *Working with PostgreSQL, Docker, algorithms*
 - *Learning best practices and production-ready code*
 
 ---
 
 ## 🛠️ Tech stack
 - **Languages:**  
-- - `Python` · `C#` · `C`
+ - `Python` · `C#` · `C`
 - **Frameworks**  
-- - `Django` · `FastAPI` · `FastAPI`
+ - `Django` · `FastAPI` · `FastAPI`
 - **Databases**  
-- - `PostgreSQL`
+ - `PostgreSQL`
 - **Tools & DevOps**  
-- - `Docker` (learning) · `Git` · `Linux`
+ - `Docker` (learning) · `Git` · `Linux`
 - **Currently deepening**  
-- - Algorithms & data structures · Docker · System design basics
+ - `Algorithms & data structures` · `Docker` · `System design basics`
 
 ---
 
@@ -35,7 +35,7 @@ Looking for an internship or junior position on a product team.
 - **I'm transitioning from another tech field — bringing strong analytical thinking and attention to detail** 
 - **I love clean code and clear architecture**  
 - **I’m looking for a team where I can grow and contribute**
-- English — **B2**
+- **English — B2**
 
 ---
 
