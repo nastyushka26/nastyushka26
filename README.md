@@ -1,7 +1,6 @@
 # ✨ Hello, I'm Nastya
 
-**Aspiring Backend Developer** (Python)  
-Looking for an internship or junior position on a product team.
+Aspiring backend developer focused on Python. Proficient in Django, FastAPI, and PostgreSQL. Currently, I'm deepening my knowledge of Docker and algorithms. I'm looking for an internship or a junior developer position on a product team where I can grow and solve real-world problems.
 
 > *I build clean, reliable backends and love solving real-world problems.*
 
