@@ -1,53 +1,80 @@
-# ✨ Hello, I'm Nastya
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Nastya&fontSize=55&fontAlignY=35" />
+</p>
 
-**Aspiring Backend Developer** (Python)  
-Looking for an internship or junior position on a product team.
+<p align="center">
+  <samp>
+    ✨ <strong>Backend Developer</strong> (Python) ✨<br>
+    Looking for <strong>internship or junior position</strong> on a product team
+  </samp>
+</p>
 
-> *I build clean, reliable backends and love solving real-world problems.*
+<p align="center">
+  <i>I build clean, reliable backends and love solving real-world problems.</i>
+</p>
+
+<br>
 
 ---
+
+<br>
 
 ## 🧭 What I do
 
-- Backend development with Python  
-- REST APIs · Django · FastAPI  
-- Working with PostgreSQL, Docker, algorithms  
-- Learning best practices and production-ready code
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Development-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
----
+<br>
 
 ## 🛠️ Tech stack
 
-**Languages**  
-`Python`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,docker,git,linux&perline=7" />
+</p>
 
-**Frameworks**  
-`Django` · `FastAPI`
+<p align="center">
+  <b>📚 Currently deepening:</b> Algorithms · Docker · System design basics
+</p>
 
-**Databases**  
-`PostgreSQL`
-
-**Tools & DevOps**  
-`Docker` (learning) · `Git` · `Linux`
-
-**Currently deepening**  
-Algorithms & data structures · Docker · System design basics
-
----
+<br>
 
 ## 🌸 About me
 
-- I'm transitioning from another tech field — bringing strong analytical thinking and attention to detail  
-- I love clean code and clear architecture  
-- I’m looking for a team where I can grow and contribute  
-- English — B2  
+<table align="center">
+<tr>
+<td align="center">
+  🧠 Strong analytical thinking<br>
+  ✨ Attention to detail<br>
+  💖 Clean code & clear architecture<br>
+  🌍 English — B2<br>
+  🎯 Looking for a team where I can grow
+</td>
+</tr>
+</table>
 
----
+<br>
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-sidarchuk-6b73443ab/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nastya.sidarchuk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nastyushka26)
+<p align="center">
+  <a href="[https://www.linkedin.com/in/anastasiya-sidarchuk-6b73443ab/]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nastya.sidarchuk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://github.com/ViderStar/](https://github.com/nastyushka26)">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer" />
+</p>
