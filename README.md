@@ -1,81 +1,53 @@
-<h1 align="center">✨ Hello, I'm Nastya</h1>
+# ✨ Hello, I'm Nastya
 
-<p align="center">
-  <b style="font-size: 1.3em;">Aspiring Backend Developer (Python)</b><br>
-  Looking for an internship or junior position on a product team.
-</p>
+**Aspiring Backend Developer** (Python)  
+Looking for an internship or junior position on a product team.
 
-<p align="center">
-  <i>> I build clean, reliable backends and love solving real-world problems.</i>
-</p>
+> *I build clean, reliable backends and love solving real-world problems.*
 
-<br>
+---
 
-<h2>🧭 What I do</h2>
+## 🧭 What I do
 
-<p style="font-size: 1.1em;">
-  • Backend development with Python<br>
-  • REST APIs · Django · FastAPI<br>
-  • Working with PostgreSQL, Docker, algorithms<br>
-  • Learning best practices and production-ready code
-</p>
+- Backend development with Python  
+- REST APIs · Django · FastAPI  
+- Working with PostgreSQL, Docker, algorithms  
+- Learning best practices and production-ready code
 
-<br>
+---
 
-<h2>🛠️ Tech stack</h2>
+## 🛠️ Tech stack
 
-<p style="font-size: 1.1em;">
-  <b>Languages</b><br>
-  <code style="font-size: 1.1em;">Python</code>
-</p>
+**Languages**  
+`Python`
 
-<p style="font-size: 1.1em;">
-  <b>Frameworks</b><br>
-  <code style="font-size: 1.1em;">Django</code> · <code style="font-size: 1.1em;">FastAPI</code>
-</p>
+**Frameworks**  
+`Django` · `FastAPI`
 
-<p style="font-size: 1.1em;">
-  <b>Databases</b><br>
-  <code style="font-size: 1.1em;">PostgreSQL</code>
-</p>
+**Databases**  
+`PostgreSQL`
 
-<p style="font-size: 1.1em;">
-  <b>Tools & DevOps</b><br>
-  <code style="font-size: 1.1em;">Docker</code> (learning) · <code style="font-size: 1.1em;">Git</code> · <code style="font-size: 1.1em;">Linux</code>
-</p>
+**Tools & DevOps**  
+`Docker` (learning) · `Git` · `Linux`
 
-<p style="font-size: 1.1em;">
-  <b>Currently deepening</b><br>
-  Algorithms & data structures · Docker · System design basics
-</p>
+**Currently deepening**  
+Algorithms & data structures · Docker · System design basics
 
-<br>
+---
 
-<h2>🌸 About me</h2>
+## 🌸 About me
 
-<p style="font-size: 1.1em;">
-  • I'm transitioning from another tech field — bringing strong analytical thinking and attention to detail<br>
-  • I love clean code and clear architecture<br>
-  • I'm looking for a team where I can grow and contribute<br>
-  • English — B2
-</p>
+- I'm transitioning from another tech field — bringing strong analytical thinking and attention to detail  
+- I love clean code and clear architecture  
+- I’m looking for a team where I can grow and contribute  
+- English — B2  
 
-<br>
+---
 
-<h2>📫 Let's connect</h2>
+## 📫 Let's connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anastasiya-sidarchuk-6b73443ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nastya.sidarchuk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nastyushka26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 
 ---
