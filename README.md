@@ -1,0 +1,54 @@
+# ✨ Hello, I'm Nastya
+
+**Aspiring Backend Developer** (Python)  
+Looking for an internship or junior position on a product team.
+
+> *I build clean, reliable backends and love solving real-world problems.*
+
+---
+
+## 🧭 What I do
+
+- Backend development with Python  
+- REST APIs · Django · FastAPI  
+- Working with PostgreSQL, Docker, algorithms  
+- Learning best practices and production-ready code
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**  
+`Python`
+
+**Frameworks**  
+`Django` · `FastAPI`
+
+**Databases**  
+`PostgreSQL`
+
+**Tools & DevOps**  
+`Docker` (learning) · `Git` · `Linux`
+
+**Currently deepening**  
+Algorithms & data structures · Docker · System design basics
+
+---
+
+## 🌸 About me
+
+- I'm transitioning from another tech field — bringing strong analytical thinking and attention to detail  
+- I love clean code and clear architecture  
+- I’m looking for a team where I can grow and contribute  
+- English — B2  
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-sidarchuk-6b73443ab/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/swanovich)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nastya.sidarchuk@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nastyushka26)
+
+---
