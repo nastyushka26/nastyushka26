@@ -17,19 +17,14 @@
 ---
 
 ## 🛠️ Tech stack
-
 ### **Languages**  
 #### `Python` · `C#` · `C`
-
 ### **Frameworks**  
 #### `Django` · `FastAPI` · `FastAPI`
-
 ### **Databases**  
 #### `PostgreSQL`
-
 ### **Tools & DevOps**  
 #### `Docker` (learning) · `Git` · `Linux`
-
 ### **Currently deepening**  
 #### Algorithms & data structures · Docker · System design basics
 
