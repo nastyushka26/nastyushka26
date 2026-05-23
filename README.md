@@ -17,15 +17,15 @@ Aspiring backend developer focused on Python. Proficient in Django, FastAPI, and
 
 ## 🛠️ Tech stack
 - **Languages:**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Tabulated `Python` · `C#` · `C`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; `Python` · `C#` · `C`
 - **Frameworks**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Tabulated `Django` · `FastAPI` · `FastAPI`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; `Django` · `FastAPI` · `FastAPI`
 - **Databases**  
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Tabulated `PostgreSQL`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; `PostgreSQL`
 - **Tools & DevOps**  
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Tabulated `Docker` (learning) · `Git` · `Linux`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; `Docker` (learning) · `Git` · `Linux`
 - **Currently deepening**  
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Tabulated `Algorithms & data structures` · `Docker` · `System design basics`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; `Algorithms & data structures` · `Docker` · `System design basics`
 
 ---
 
